@@ -1,5 +1,5 @@
 # BlockChain_GO_P2
-Simple example implement in GO
+Examples of implementation in GO!
 
 
 
